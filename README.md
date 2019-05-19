@@ -1,0 +1,2 @@
+# shadowsocks
+centos 6
